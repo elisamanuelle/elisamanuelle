@@ -3,3 +3,19 @@
 
 Transformo dados em decisões estratégicas utilizando SQL, Power BI, R, Python e Azure. Tenho experiência completa no ciclo de dados: desde a extração, limpeza e transformação (ETL), até a modelagem e análise preditiva. Desenvolvo dashboards interativos, relatórios automatizados e indicadores-chave que facilitam o acompanhamento do desempenho de negócios. Minha formação em Ciências Econômicas (UFMT) aliada ao MBA em Data Science & Analytics (USP/Esalq) me permite aplicar métodos estatísticos avançados e técnicas de machine learning para gerar análises consistentes. Trabalho como analista de dados em uma distribuidora de produtos agropecuários desde 07/12/2023.
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/elisama-ribeiro/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=person-add&logoColor=white" 
+        />
+    </a>
+    <a href="https://lattes.cnpq.br/5381344585038421">
+        <img 
+            alt="Currículo Lattes" 
+            title="Meu Currículo Lattes" 
+            src="https://custom-icon-badges.demolab.com/badge/-Currículo Lattes-800080?style=for-the-badge&logo=Repo&logoColor=white"
+        />
+    </a>
+</p>
