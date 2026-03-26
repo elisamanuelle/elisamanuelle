@@ -23,5 +23,3 @@ Transformo dados em decisões estratégicas utilizando SQL, Power BI, R, Python 
 ## Linguagens mais recorrentes nos repositórios
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisamanuelle&layout=compact&langs_count=8&hide=html,css&size_weight=0.2&count_weight=0.8&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
-
-> Métrica automática baseada nas linguagens recorrentes dos repositórios públicos. Ferramentas analíticas como Power BI, DAX, Pandas e Azure aparecem nos projetos e documentações associadas.
