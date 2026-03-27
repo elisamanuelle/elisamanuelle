@@ -20,6 +20,4 @@ Transformo dados em decisões estratégicas utilizando SQL, Power BI, R, Python 
     </a>
 </p>
 
-## Linguagens mais recorrentes nos repositórios
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisamanuelle&layout=compact&langs_count=6&hide=html,css&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
