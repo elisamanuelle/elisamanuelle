@@ -24,7 +24,7 @@ Transformo dados em decisões estratégicas utilizando SQL, Power BI, R, Python 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisamanuelle&layout=compact&langs_count=8&hide=html,css&size_weight=0.2&count_weight=0.8&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisamanuelle&langs_count=8&hide=html,css&size_weight=0.2&count_weight=0.8&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"
     alt="Top Langs"
     width="100%"
   />
